@@ -1,0 +1,48 @@
+{
+    "language": "Català",
+    "home": "Inici",
+    "work": "Experiència Laboral",
+    "education": "Educació",
+    "about_me": "Sobre mi",
+    "work_description": {
+        "intowin": {
+            "position": "Full Stack Developer",
+            "company": "Intowin",
+            "duration": "Juny 2019 - Present",
+            "type": "Jornada completa",
+            "location": "Mataró i Remot"
+        },
+        "kriter": {
+            "position": "Full Stack Developer",
+            "company": "Kriter Software",
+            "duration": "Juny 2018 - Juny 2019",
+            "type": "Mitja Jornada",
+            "location": "Mataró"
+        },
+        "hospital": {
+            "position": "Técnico Informático",
+            "company": "Consorci Sanitari del Maresme",
+            "duration": "Octubre 2016 - Marzo 2017",
+            "type": "Becario",
+            "location": "Mataró"
+        }
+    },
+    "education_description": {
+        "daw": {
+            "degree": "CFGS Desenvolupament d'Aplicacions Web (DAW)",
+            "place": "I.E.S Thos i Codina (Mataró)"
+        },
+        "smx": {
+            "degree": "CFGM Sistemes Microinformàtics i Xarxes (SMX)",
+            "place": "I.E.S Thos i Codina (Mataró)"
+        }
+    },
+    "about_me_description": {
+        "birthday": "26/04/1998, Barcelona",
+        "description": {
+            "part1": "Hola!, em dic Marc, tinc {age} i sóc desenvolupador de software 🧑‍💻.",
+            "part2": "Tinc {experience} anys d'experiència com a desenvolupador de software 💪.",
+            "part3": "Esportista 🏃."
+        }
+    }
+}

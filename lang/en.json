@@ -1,0 +1,48 @@
+{
+    "language": "English",
+    "home": "Home",
+    "work": "Work Experience",
+    "education": "Education",
+    "about_me": "Aobut me",
+    "work_description": {
+        "intowin": {
+            "position": "Full Stack Developer",
+            "company": "Intowin",
+            "duration": "June 2019 - Present",
+            "type": "Full Time",
+            "location": "Mataró and Remote"
+        },
+        "kriter": {
+            "position": "Full Stack Developer",
+            "company": "Kriter Software",
+            "duration": "June 2018 - June 2019",
+            "type": "Part Time",
+            "location": "Mataró"
+        },
+        "hospital": {
+            "position": "Computer Technician",
+            "company": "Consorci Sanitari del Maresme",
+            "duration": "October 2016 - March 2017",
+            "type": "Apprenticeship",
+            "location": "Mataró"
+        }
+    },
+    "education_description": {
+        "daw": {
+            "degree": "Associate Degree, Web Development",
+            "place": "Thos i Codina High School"
+        },
+        "smx": {
+            "degree": "Associate Degree, Systems and Networks",
+            "place": "Thos i Codina High School"
+        }
+    },
+    "about_me_description": {
+        "birthday": "1998-04-26, Barcelona",
+        "description": {
+            "part1": "Hi! My name is Marc, I'm {age} years old and I'm a software developer 🧑‍💻.",
+            "part2": "I have {experience} years of experience as a software developer 💪.",
+            "part3": "Sports player 🏃."
+        }
+    }
+}
