@@ -1,4 +1,6 @@
 {
+    "name": "Marc Terradas Zapata",
+    "title": "Full Stack Developer",
     "language": "Català",
     "home": "Inici",
     "work": "Experiència Laboral",
@@ -10,40 +12,60 @@
             "position": "Full Stack Developer",
             "company": "Intowin",
             "duration": "Juny 2019 - Present",
+            "duration2": "{y} Anys {m} Mes | {y} Anys {m} Mesos",
             "type": "Jornada completa",
-            "location": "Mataró i Remot"
+            "location": "Mataró i Remot",
+            "description": "Frontend: Vue.js, SASS, HTML, CSS, JS, jQuery <br> Backend: CodeIgniter, PHP, Python, MySQL <br> Control de versions amb Git <br> Metodologia: Scrum i Kanban"
         },
         "kriter": {
             "position": "Full Stack Developer",
             "company": "Kriter Software",
             "duration": "Juny 2018 - Juny 2019",
+            "duration2": "1 Any 1 Mes",
             "type": "Mitja Jornada",
-            "location": "Mataró"
+            "location": "Mataró",
+            "description": "Frontend: Bootstrap, SASS, HTML, CSS, JS, jQuery <br> Backend: Spring Boot, PHP, Java, Node.js, MySQL, MongoDB <br> Control de versions amb Git <br> Servei Tècnic: Trucades i Correus Electrònics"
         },
         "hospital": {
             "position": "Técnico Informático",
             "company": "Consorci Sanitari del Maresme",
             "duration": "Octubre 2016 - Marzo 2017",
+            "duration2": "6 Messos",
             "type": "Becario",
-            "location": "Mataró"
+            "location": "Mataró",
+            "description": "Manteniment d'Ordinadors, portàtils i Impressores <br> Desplegament de xarxes <br> Còpies de seguretat"
         }
     },
     "education_description": {
         "daw": {
             "degree": "CFGS Desenvolupament d'Aplicacions Web (DAW)",
-            "place": "I.E.S Thos i Codina (Mataró)"
+            "place": "I.E.S Thos i Codina (Mataró)",
+            "description": "Sistemes Operatius Lliures i Serveis en Xarxa <br> Java, JavaScript, PHP, MySQL, HTML, CSS <br> Desplegament d'Aplicacions Web <br> Projecte Final de Grau",
+            "duration": "2017 - 2019"
         },
         "smx": {
             "degree": "CFGM Sistemes Microinformàtics i Xarxes (SMX)",
-            "place": "I.E.S Thos i Codina (Mataró)"
+            "place": "I.E.S Thos i Codina (Mataró)",
+            "description": "Manteniment d'Ordinadors <br> Sistemes Operatius Lliures (Client i Servidor) <br> Desplegament de xarxes <br> Seguretat Informàtica <br> Desplegament d'Aplicacions Web <br> Anglès Tècnic <br> Projecte Final de Grau",
+            "duration": "2014 - 2016"
+        },
+        "b2": {
+            "degree": "Anglès - B2",
+            "place": "Universitat Oberta de Catalunya",
+            "certificated": "Juny 2020",
+            "link": "Veure certificat"
         }
     },
     "about_me_description": {
         "birthday": "26/04/1998, Barcelona",
         "description": {
-            "part1": "Hola!, em dic Marc, tinc {age} i sóc desenvolupador de software 🧑‍💻.",
-            "part2": "Tinc {experience} anys d'experiència com a desenvolupador de software 💪.",
-            "part3": "Esportista 🏃."
-        }
+            "part1": "Hola!, em dic Marc, tinc {age} i sóc desenvolupador de software amb {experience} anys d'experiència"
+        },
+        "title": "Hola",
+        "subtitle": "El meu nom és Marc Terradas Zapata",
+        "text1": "Tinc {age} anys, vaig néixer el 26/04/1998 a Barcelona, i soc desenvolupador de software amb {experience} anys d'experiència",
+        "text2": "El stack tecnològic que més m'agrada és: <b>Vue.js</b>, <b>Node.js</b> i <b>MongoDB</b>. També treballo amb <b>PHP</b>, <b>Python</b>, <b>Java</b> i <b>MySQL</b>",
+        "text3": "Els idiomes que parlo són: <b>Català</b> (nivell natiu), <b>Castellà</b> (nivell natiu) i <b>Anglès</b> (nivell B2)",
+        "text4": "La meva passió a part de la programació és el món de l'esport. Porto fent esport des dels 3 anys, els que més he practicat i gaudit han estat: bàsquet (on vaig aprendre des de petit a treballar en equip), judo i atletisme"
     }
 }
